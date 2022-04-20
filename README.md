@@ -2,16 +2,16 @@
 
 ![Foto de You tube de Walter Varela](https://i.ytimg.com/vi/W3sOOCmQNtI/maxresdefault.jpg)
 
-**Estudiante de Geografia**
+_**Estudiante de Geografia**_
 
 
-**Datos de contancto:** 12121414
+_**Datos de contancto:**_ 12121414
 
-**Área de interes:** conservación de animales
+_**Área de interes:**_ conservación de animales
 
-**Carrera: Bachiller y Licenciatura de Geografía**
+_**Carrera: Bachiller y Licenciatura de Geografía**_
 
-**Cursos aprobados:**
+_**Cursos aprobados:**_
 
 -EG-I curso integrado de humanidades
 
