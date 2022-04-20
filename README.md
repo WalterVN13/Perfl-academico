@@ -23,6 +23,6 @@ _**Cursos aprobados:**_
 
 -EG-II curso integrado de humanidades II
 
-![Foto de walter varela](Messi.jpg)
+![Foto de walter varela](file:///C:/Users/gf0604-1/practica%20markdown/messi.jpg)
 
 _**Información personal:**_ Estudio en la [Universidad de Costa Rica](https://www.ucr.ac.cr/), tengo 18 años, soy trabajador, responsables y honesto.
