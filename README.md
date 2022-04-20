@@ -1,6 +1,6 @@
 # Perfil academico de Walter Varela
 
-![foto de youtube de Walter Varela] (https://i.ytimg.com/vi/W3sOOCmQNtI/maxresdefault.jpg)
+![foto de youtube de Walter Varela](https://i.ytimg.com/vi/W3sOOCmQNtI/maxresdefault.jpg)
 
 _**Estudiante de Geografia**_
 
