@@ -25,4 +25,4 @@ _**Cursos aprobados:**_
 
 ![Foto de walter varela](Messi.jpg)
 
-
+_**Información personal:**_ Estudian en [Universidad de Costa Rica](https://www.ucr.ac.cr/), tengo 18 años, soy trabajador, responsables y honesto.
